@@ -1,7 +1,7 @@
 # Hi, I'm Alan!
 I'm currently studying at KBTU in Almaty, Kazakhstan.<br>
-Planning to advance toward front-end, back-end, full-stack, or Android development.<br>
-Currently learning the basics of website development and Android app development.
+Planning to advance toward front-end web development.<br>
+Currently learning the basics of website development.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
